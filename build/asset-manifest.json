@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ethical0101/local-react.git/static/css/main.945444e9.css",
+    "main.js": "/ethical0101/local-react.git/static/js/main.25307e41.js",
+    "static/js/453.f7290351.chunk.js": "/ethical0101/local-react.git/static/js/453.f7290351.chunk.js",
+    "index.html": "/ethical0101/local-react.git/index.html",
+    "main.945444e9.css.map": "/ethical0101/local-react.git/static/css/main.945444e9.css.map",
+    "main.25307e41.js.map": "/ethical0101/local-react.git/static/js/main.25307e41.js.map",
+    "453.f7290351.chunk.js.map": "/ethical0101/local-react.git/static/js/453.f7290351.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.945444e9.css",
+    "static/js/main.25307e41.js"
+  ]
+}
